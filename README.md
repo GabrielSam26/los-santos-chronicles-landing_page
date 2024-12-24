@@ -10,5 +10,5 @@ Landing page desenvolvida para Los Santos Chronicles, inspirada no universo de G
 - Tailwind CSS
 
 ### 🔗 Links
-- [Ver Demo]([https://seu-site.vercel.app](https://landing-lsc-teste.netlify.app/))
+- [Ver Demo](https://landing-lsc-teste.netlify.app/)
 - [Portfólio](https://gabrielsamdev.netlify.app/)
